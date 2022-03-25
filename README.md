@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 
 I'm currently practising
 HTML, CSS, Javascript, C#, Python & Ruby
-![alaminur's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminur)
+
+
+![alaminur's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminur&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminur&layout=compact&theme=radical)
