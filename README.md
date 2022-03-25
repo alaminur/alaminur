@@ -1,26 +1,15 @@
-### Hi I'm Alamin & I am looking to become a developer 👋
+# Hi I'm Alamin & I am looking to become a developer 👋
 
-<!--
-**alaminur/alaminur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently practising: 
+- HTML
+- CSS
+- Javascript
+- C#
+- Java
+- Python
+- Ruby
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-I'm currently practising
-HTML, CSS, Javascript, C#, Python & Ruby
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminur&layout=compact&theme=radical)
 
 
 ![alaminur's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminur&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminur&layout=compact&theme=radical)
