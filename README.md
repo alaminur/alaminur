@@ -7,7 +7,7 @@
 - C#
 - Java
 - Python
-- Ruby
+- SQL
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminur&layout=compact&theme=radical)
 
