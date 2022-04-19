@@ -1,13 +1,12 @@
-# Hi I'm Alamin & I am looking to become a developer 👋
+# Hi I'm Alamin & I am looking to become a front end developer 👋
 
 ## I'm currently practising: 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Javascript
+- React 
 - C#
 - Java
-- Python
-- SQL
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminur&layout=compact&theme=radical)
 
