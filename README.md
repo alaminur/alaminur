@@ -1,10 +1,11 @@
 # Hi I'm Alamin & I am looking to become a front end developer 👋
 
 ## I'm currently practising: 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Javascript
-- React 
+- SQL
+- Python
 - C#
 - Java
 
